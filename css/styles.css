@@ -1,0 +1,18 @@
+header, footer {
+    background-color: rgb(12, 12, 12);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+header img {
+    width: 150px;
+}
+section {
+    background-color: rgb(202, 202, 202);
+    min-height: 150px;
+    padding: 5px 10px;
+    margin: 10px 0px;
+}
+details {
+    margin: 10px;
+}

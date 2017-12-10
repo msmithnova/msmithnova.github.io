@@ -1,2 +1,2 @@
 # msmithnova.github.io
-Github Pages Test
+A landing pad for information and links to my projects.
